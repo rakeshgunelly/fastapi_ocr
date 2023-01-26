@@ -1,0 +1,5 @@
+fastapi
+aiofiles
+uvicorn
+python-multipart
+pytesseract
